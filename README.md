@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning React, NodeJs
 - 💞️ I’m looking to collaborate on some company
-- 📫 How to reach me andygrigs88
+- 📫 How to reach me andygrigs88@gmail.com
 
 <!---
 AndyGrigs/AndyGrigs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
