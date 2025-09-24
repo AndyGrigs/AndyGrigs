@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyGrigs
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning React, NodeJs
+- 🌱 I’m currently working with React, NodeJs
 - 💞️ I’m looking to collaborate on some company
 - 📫 How to reach me andygrigs88@gmail.com
 
